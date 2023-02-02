@@ -1,0 +1,33 @@
+@charset "UTF-8";
+body{
+background-image: linear-gradient(to top, white, #085252);
+font-family: 'Times New Roman', Times, serif;
+font-weight: bold;
+color: rgb(11, 105, 105);
+}
+main{
+    background-color: beige;
+    width: 600px;
+    margin: auto;
+    text-align: justify;
+    padding: 20px;
+    box-shadow: 5px 5px 5px;
+    border-radius: 5px;
+}
+
+
+h1#principal{
+    text-align: center;
+    color: #085252;
+    font-size: 2.5em;
+    text-shadow: 3px 1px 3px rgb(8, 82, 82);
+}
+.basico{
+color: #520852;
+}
+.intermediario{
+    color: #365208;
+}
+.avancado{
+    color: #520821;
+}
